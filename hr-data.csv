@@ -1,0 +1,162 @@
+Name,Emp ID,Gender,Education_Qualification,Date of Join,Job_Title,Salary,Age,Leave Balance,Date_of_joining
+Barr Faughny,AC0001,Male,Bachelor's Degree,12-Jun-20,Chocolatier,"$51,300 ",26,13,2020-06-12
+Dennison Crosswaite,AC0002,Female,Diploma,18-Feb-21,Production Operator,"$38,300 ",32.7,12,2021-02-18
+Gunar Cockshoot,AC0003,Male,High School Diploma,05-Sep-22,Packaging Associate,"$31,400 ",34.3,16,2022-09-05
+Wilone O'Kielt,AC0004,Female,Bachelor's Degree,20-Nov-19,Marketing Specialist,"$60,700 ",29.6,21,2019-11-20
+Gigi Bohling,AC0005,Male,Master's Degree,08-Apr-18,Research Scientist,"$77,300 ",30.3,23,2018-04-08
+Curtice Advani,AC0006,Female,Bachelor's Degree,14-Mar-23,Sales Representative,"$49,800 ",37.7,23,2023-03-14
+Kaine Padly,AC0007,Male,High School Diploma,02-Jan-22,Production Operator,"$33,000 ",31.8,24,2022-01-02
+Ches Bonnell,AC0008,Female,Diploma,19-Jul-20,Quality Control,"$41,900 ",35.9,17,2020-07-19
+Andria Kimpton,AC0009,Male,Bachelor's Degree,10-Nov-21,Research Analyst,"$58,100 ",31,16,2021-11-10
+Brien Boise,AC0010,Female,Master's Degree,25-Jun-19,Product Manager,"$82,900 ",31.1,17,2019-06-25
+Husein Augar,AC0011,Male,High School Diploma,04-Aug-22,Packaging Associate,"$28,900 ",30.3,16,2022-08-04
+Karlen McCaffrey,AC0012,Female,Diploma,17-Feb-20,Production Operator,"$37,300 ",35,11,2020-02-17
+Jan Morforth,AC0013,Male,Bachelor's Degree,30-Oct-21,Chocolatier,"$52,700 ",28.5,25,2021-10-30
+Dotty Strutley,AC0014,Female,Master's Degree,12-Sep-18,Marketing Manager,"$74,700 ",52.4,10,2018-09-12
+Kelci Walkden,AC0015,Male,Bachelor's Degree,05-Mar-19,Research Analyst,"$55,600 ",35.4,12,2019-03-05
+Marney O'Breen,AC0016,Female,High School Diploma,21-May-22,Packaging Associate,"$32,900 ",29.8,17,2022-05-21
+Rafaelita Blaksland,AC0017,Female,Diploma,08-Aug-21,Quality Control,"$41,500 ",32.3,17,2021-08-08
+Madelene Upcott,AC0018,Male,Bachelor's Degree,23-Nov-20,Sales Representative,"$49,400 ",31.1,20,2020-11-23
+Beverie Moffet,AC0019,Female,Master's Degree,15-Jul-17,Product Manager,"$82,700 ",33.5,23,2017-07-15
+Oby Sorrel,AC0020,Male,High School Diploma,30-Mar-22,Production Operator,"$38,200 ",31.1,16,2022-03-30
+Mallorie Waber,AC0021,Female,Diploma,04-Sep-19,Packaging Associate,"$32,600 ",31.5,16,2019-09-04
+Jehu Rudeforth,AC0022,Male,Bachelor's Degree,19-Jun-18,Research Scientist,"$76,800 ",32.7,22,2018-06-19
+Van Tuxwell,AC0023,Female,Master's Degree,07-Jan-21,Marketing Specialist,"$62,300 ",33.8,23,2021-01-07
+Roddy Speechley,AC0024,Male,Bachelor's Degree,25-Aug-20,Sales Representative,"$46,200 ",30.1,19,2020-08-25
+Camilla Castle,AC0025,Female,High School Diploma,12-Feb-23,Packaging Associate,"$32,500 ",63.7,12,2023-02-12
+Janene Hairsine,AC0026,Male,Diploma,01-Nov-22,Quality Control,"$43,100 ",33.8,16,2022-11-01
+Niall Selesnick,AC0027,Female,Bachelor's Degree,16-Apr-19,Research Analyst,"$60,000 ",28.8,18,2019-04-16
+Ebonee Roxburgh,AC0028,Male,Master's Degree,09-Oct-18,Product Manager,"$82,100 ",32.7,14,2018-10-09
+Zach Polon,AC0029,Female,High School Diploma,26-May-23,Production Operator,"$35,900 ",29.9,15,2023-05-26
+Orton Livick,AC0030,Male,Diploma,13-Jan-20,Packaging Associate,"$31,100 ",27,20,2020-01-13
+Gray Seamon,AC0031,Female,Bachelor's Degree,27-Jul-18,Marketing Manager,"$74,200 ",30.6,27,2018-07-27
+Benny Karolovsky,AC0032,Male,Master's Degree,14-Mar-19,Research Analyst,"$57,100 ",28.7,13,2019-03-14
+Dyna Doucette,AC0033,Female,High School Diploma,28-Sep-22,Packaging Associate,"$35,200 ",33.7,21,2022-09-28
+Erin Androsik,AC0034,Male,Diploma,11-Apr-21,Quality Control,"$42,800 ",31.2,18,2021-04-11
+Madge McCloughen,AC0035,Female,Bachelor's Degree,26-Jan-20,Sales Representative,"$46,900 ",34.9,16,2020-01-26
+Esmaria Denecamp,AC0036,Male,Master's Degree,03-Aug-17,Product Manager,"$80,700 ",26.1,13,2017-08-03
+Hogan Iles,AC0037,Female,High School Diploma,19-Mar-23,Production Operator,"$36,500 ",23.5,17,2023-03-19
+Valentia Etteridge,AC0038,Male,Diploma,15-Oct-22,Packaging Associate,"$31,900 ",29.6,25,2022-10-15
+Archibald Filliskirk,AC0039,Female,Bachelor's Degree,10-Jun-19,Chocolatier,"$52,700 ",32.2,16,2019-06-10
+Lindy Guillet,AC0040,Male,Master's Degree,03-May-18,Marketing Specialist,"$61,400 ",37.8,15,2018-05-03
+Dell Molloy,AC0041,Female,High School Diploma,29-Sep-21,Research Scientist,"$79,300 ",34.9,18,2021-09-29
+Ewart Laphorn,AC0042,Male,Diploma,14-Feb-20,Sales Representative,"$49,000 ",35.3,13,2020-02-14
+Vic Radolf,AC0043,Female,Bachelor's Degree,01-Jan-23,Quality Control,"$44,800 ",30,17,2023-01-01
+Virginia McConville,AC0044,Male,High School Diploma,25-Nov-22,Packaging Associate,"$29,700 ",32.3,15,2022-11-25
+Kaye Crocroft,AC0045,Female,Diploma,09-Apr-20,Production Operator,"$39,700 ",30,18,2020-04-09
+Mollie Hanway,AC0046,Male,Bachelor's Degree,31-Oct-21,Chocolatier,"$52,500 ",55.9,16,2021-10-31
+Hoyt D'Alesco,AC0047,Female,Master's Degree,14-Aug-18,Marketing Manager,"$73,500 ",62.6,23,2018-08-14
+Crissie Cordel,AC0048,Female,Bachelor's Degree,27-Mar-19,Research Analyst,"$57,800 ",34.2,14,2019-03-27
+Myer McCory,AC0049,Male,High School Diploma,12-Jul-22,Packaging Associate,"$34,900 ",30.2,19,2022-07-12
+Enoch Dowrey,AC0050,Female,Diploma,25-Apr-21,Quality Control,"$44,400 ",31.5,18,2021-04-25
+Kissiah Maydway,AC0051,Female,Bachelor's Degree,08-Sep-20,Sales Representative,"$46,000 ",53.5,15,2020-09-08
+Ambros Murthwaite,AC0052,Female,Master's Degree,23-Apr-17,Product Manager,"$84,800 ",34.4,18,2017-04-23
+Torrance Collier,AC0053,Male,High School Diploma,14-Feb-23,Production Operator,"$39,300 ",37.9,16,2023-02-14
+Allene Gobbet,AC0054,Male,Diploma,31-Dec-22,Packaging Associate,"$29,000 ",30.4,30,2022-12-31
+Violante Courtonne,AC0055,Female,Bachelor's Degree,15-Jun-19,Chocolatier,"$53,900 ",32.5,23,2019-06-15
+Merrilee Plenty,AC0056,Male,Master's Degree,28-Oct-18,Marketing Specialist,"$63,600 ",35,10,2018-10-28
+Tatum Hush,AC0057,Female,High School Diploma,13-Dec-21,Research Scientist,"$77,000 ",36.3,17,2021-12-13
+Kath Bletsoe,AC0058,Male,Bachelor's Degree,26-Jul-20,Sales Representative,"$49,700 ",30.9,19,2020-07-26
+Hinda Label,AC0059,Female,Diploma,22-Jun-23,Quality Control,"$43,000 ",33.6,4,2023-06-22
+Shari McNee,AC0060,Female,Bachelor's Degree,14-Sep-19,Packaging Associate,"$36,200 ",36,19,2019-09-14
+My Hanscome,AC0061,Male,Master's Degree,06-Apr-18,Marketing Manager,"$70,800 ",36.8,18,2018-04-06
+Drusy MacCombe,AC0062,Male,High School Diploma,19-Jan-20,Research Analyst,"$55,700 ",31.6,22,2020-01-19
+Halimeda Kuscha,AC0063,Female,Diploma,04-Jul-22,Product Manager,"$83,600 ",33.1,18,2022-07-04
+William Reeveley,AC0064,Male,Bachelor's Degree,17-Aug-21,Production Operator,"$39,800 ",31.3,15,2021-08-17
+Tracy Renad,AC0065,Female,Master's Degree,10-Dec-18,Chocolatier,"$51,400 ",33.9,8,2018-12-10
+Kassi Jonson,AC0066,Male,High School Diploma,23-Sep-19,Marketing Specialist,"$63,100 ",30.2,21,2019-09-23
+Constantino Espley,AC0067,Female,Bachelor's Degree,15-Feb-22,Research Scientist,"$76,300 ",65.4,16,2022-02-15
+Mollie Hanway,AC0068,Female,Diploma,29-Jun-21,Sales Representative,"$47,800 ",27.7,19,2021-06-29
+Gretchen Callow,AC0069,Male,Bachelor's Degree,22-Mar-20,Quality Control,"$41,500 ",33.4,13,2020-03-22
+Bev Lashley,AC0070,Female,High School Diploma,12-Jan-23,Packaging Associate,"$33,600 ",46,16,2023-01-12
+Sibyl Dunkirk,AC0071,Male,Diploma,05-Jun-19,Production Operator,"$37,000 ",33,17,2019-06-05
+Trio Lipa,AC0072,Female,Bachelor's Degree,28-Sep-18,Research Analyst,"$56,700 ",35,14,2018-09-28
+Shayne Stegel,AC0073,Male,Master's Degree,11-Apr-17,Product Manager,"$84,700 ",34.8,20,2017-04-11
+Hyacinthie Braybrooke,AC0074,Female,High School Diploma,26-Feb-23,Chocolatier,"$51,300 ",36.3,14,2023-02-26
+Agnes Collicott,AC0075,Female,Diploma,15-Jul-20,Marketing Manager,"$74,800 ",31.2,20,2020-07-15
+Teressa Udden,AC0076,Male,Bachelor's Degree,28-Oct-19,Research Scientist,"$78,400 ",31,22,2019-10-28
+Bennie Pepis,AC0077,Female,High School Diploma,13-Apr-22,Sales Representative,"$48,300 ",27.7,20,2022-04-13
+Elia Cockton,AC0078,Female,Diploma,28-May-21,Quality Control,"$42,100 ",35.9,16,2021-05-28
+A R Rahadude,AC0079,Female,Bachelor's Degree,21-Jun-20,Packaging Associate,"$36,000 ",31.6,17,2020-06-21
+Murry Dryburgh,AC0080,Male,Master's Degree,04-Sep-18,Production Operator,"$37,700 ",34.8,20,2018-09-04
+Mahalia Larcher,AC0081,Female,High School Diploma,20-Aug-19,Research Analyst,"$56,900 ",30.5,12,2019-08-20
+Bili Sizey,AC0082,Female,Diploma,09-Mar-22,Product Manager,"$81,600 ",61.7,6,2022-03-09
+Lilyan Klimpt,AC0083,Male,Bachelor's Degree,22-Dec-21,Chocolatier,"$51,200 ",42.6,22,2021-12-22
+Almond Joy,AC0084,Female,Master's Degree,15-Jul-19,Marketing Specialist,"$61,400 ",31,15,2019-07-15
+Leilah Yesinin,AC0085,Male,High School Diploma,27-Apr-23,Research Scientist,"$76,700 ",31.4,16,2023-04-27
+Collin Jagson,AC0086,Female,Diploma,10-May-20,Sales Representative,"$49,800 ",50.3,15,2020-05-10
+Kellsie Waby,AC0087,Male,Bachelor's Degree,03-Feb-21,Quality Control,"$43,000 ",60.8,24,2021-02-03
+Simon Kembery,AC0088,Female,High School Diploma,19-May-22,Packaging Associate,"$36,200 ",39.8,14,2022-05-19
+Tawnya Tickel,AC0089,Male,Diploma,14-Aug-19,Production Operator,"$36,400 ",38.3,20,2019-08-14
+Bernie Gorges,AC0090,Female,Bachelor's Degree,27-Nov-18,Chocolatier,"$54,900 ",31.6,17,2018-11-27
+Florinda Crace,AC0091,Male,Master's Degree,10-Jun-17,Marketing Manager,"$74,200 ",30.7,17,2017-06-10
+Oran Buxcy,AC0092,Male,High School Diploma,19-Mar-23,Research Analyst,"$58,700 ",47.3,6,2023-03-19
+Anvi Verma,AC0093,Female,Diploma,02-Sep-20,Product Manager,"$81,100 ",34.6,16,2020-09-02
+Zara Mishra,AC0094,Female,Bachelor's Degree,17-Jul-19,Production Operator,"$38,300 ",33.7,14,2019-07-17
+Dev Joshi,AC0095,Male,Master's Degree,10-Dec-18,Chocolatier,"$51,100 ",36.2,15,2018-12-10
+Pari Sharma,AC0096,Female,High School Diploma,04-May-23,Marketing Specialist,"$63,500 ",28.5,20,2023-05-04
+Aanya Kapoor,AC0097,Female,Bachelor's Degree,28-Oct-21,Research Scientist,"$78,900 ",30.3,17,2021-10-28
+Kiara Choudhary,AC0098,Female,Diploma,12-Feb-20,Sales Representative,"$46,000 ",38,21,2020-02-12
+Reyansh Iyer,AC0099,Male,Bachelor's Degree,27-May-19,Quality Control,"$44,400 ",35.1,16,2019-05-27
+Samaira Agarwal,AC0100,Female,High School Diploma,12-Dec-22,Packaging Associate,"$36,200 ",39.5,24,2022-12-12
+Avani Malhotra,AC0101,Female,Diploma,26-Apr-21,Production Operator,"$38,800 ",31.9,20,2021-04-26
+Kiaan Rana,AC0102,Male,Bachelor's Degree,09-Sep-18,Research Analyst,"$57,800 ",36.6,15,2018-09-09
+Aarav Shah,AC0103,Male,Master's Degree,31-Oct-17,Product Manager,"$82,800 ",51.8,20,2017-10-31
+Anaya Gupta,AC0104,Female,High School Diploma,15-Jan-23,Chocolatier,"$53,900 ",35.6,15,2023-01-15
+Munch Munch,AC0105,Male,Diploma,28-Jun-20,Marketing Manager,"$73,900 ",30.1,12,2020-06-28
+Siya Trivedi,AC0106,Female,Bachelor's Degree,11-Sep-19,Research Scientist,"$76,100 ",28,16,2019-09-11
+Kabir Kapoor,AC0107,Male,High School Diploma,04-Mar-22,Sales Representative,"$45,500 ",29.3,14,2022-03-04
+Rhea Saxena,AC0108,Female,Diploma,17-Jun-21,Quality Control,"$44,600 ",36.8,10,2021-06-17
+Advait Sharma,AC0109,Male,Bachelor's Degree,30-Nov-18,Packaging Associate,"$36,100 ",27.2,8,2018-11-30
+Aarush Mishra,AC0110,Male,Master's Degree,23-Jul-17,Production Operator,"$35,500 ",29.6,24,2017-07-23
+Anika Chawla,AC0111,Female,High School Diploma,11-May-23,Research Analyst,"$58,000 ",33,13,2023-05-11
+Zara Verma,AC0112,Female,Diploma,24-Oct-20,Product Manager,"$81,400 ",35.2,19,2020-10-24
+Dev Agarwal,AC0113,Male,Bachelor's Degree,15-Apr-19,Chocolatier,"$51,000 ",34.8,22,2019-04-15
+Pari Kumar,AC0114,Female,Master's Degree,08-Sep-18,Marketing Specialist,"$61,600 ",31.4,15,2018-09-08
+Aanya Singh,AC0115,Female,High School Diploma,29-Nov-21,Research Scientist,"$77,100 ",31.7,9,2021-11-29
+Kiara Joshi,AC0116,Female,Diploma,13-Jul-20,Sales Representative,"$47,900 ",31.7,9,2020-07-13
+Reyansh Malhotra,AC0117,Male,Bachelor's Degree,28-Mar-19,Quality Control,"$43,000 ",28.2,17,2019-03-28
+M&M Peanut,AC0118,Female,High School Diploma,12-Aug-22,Packaging Associate,"$35,100 ",35.7,21,2022-08-12
+Avani Agarwal,AC0119,Female,Diploma,25-May-21,Production Operator,"$39,700 ",31.1,16,2021-05-25
+Nestle Crunch,AC0120,Male,Bachelor's Degree,18-Oct-18,Research Analyst,"$59,200 ",30.9,18,2018-10-18
+Aarav Verma,AC0121,Male,Master's Degree,11-May-17,Product Manager,"$85,000 ",65.1,5,2017-05-11
+Anaya Choudhary,AC0122,Female,High School Diploma,26-Jan-23,Chocolatier,"$52,700 ",29.5,10,2023-01-26
+Krish Trivedi,AC0123,Male,Diploma,09-Jul-20,Marketing Manager,"$74,900 ",33.8,11,2020-07-09
+Siya Rawat,AC0124,Female,Bachelor's Degree,01-Oct-19,Research Scientist,"$77,500 ",30.3,14,2019-10-01
+Kabir Shah,AC0125,Male,High School Diploma,14-Feb-22,Sales Representative,"$45,900 ",37.4,16,2022-02-14
+Rhea Bhatia,AC0126,Female,Diploma,29-Jul-21,Quality Control,"$45,000 ",36.3,2,2021-07-29
+Advait Kumar,AC0127,Male,Bachelor's Degree,21-Nov-18,Packaging Associate,"$33,100 ",34.3,9,2018-11-21
+Aarush Verma,AC0128,Male,Master's Degree,14-Jun-17,Production Operator,"$37,600 ",37.9,18,2017-06-14
+Anika Singh,AC0129,Female,High School Diploma,07-Jan-23,Research Analyst,"$58,300 ",29.4,16,2023-01-07
+Zara Chawla,AC0130,Female,Diploma,30-Jul-20,Product Manager,"$83,900 ",31.4,14,2020-07-30
+Dev Joshi,AC0131,Male,Bachelor's Degree,23-Dec-19,Chocolatier,"$51,100 ",33.7,16,2019-12-23
+Pari Gupta,AC0132,Female,Master's Degree,16-Sep-18,Marketing Specialist,"$62,900 ",36.8,15,2018-09-16
+Aanya Trivedi,AC0133,Female,High School Diploma,07-Feb-22,Research Scientist,"$79,200 ",31.4,14,2022-02-07
+Kiara Bhatia,AC0134,Female,Diploma,22-Jun-21,Sales Representative,"$47,000 ",32.3,22,2021-06-22
+Reyansh Rana,AC0135,Male,Bachelor's Degree,15-Sep-20,Quality Control,"$42,400 ",66.2,19,2020-09-15
+Lindt Truffle,AC0136,Female,High School Diploma,28-Nov-19,Packaging Associate,"$33,800 ",66.7,8,2019-11-28
+Avani Iyer,AC0137,Female,Diploma,12-Jan-23,Production Operator,"$36,000 ",31,18,2023-01-12
+Kiaan Shah,AC0138,Male,Bachelor's Degree,05-May-21,Research Analyst,"$58,500 ",31.3,23,2021-05-05
+Oreo Delight,AC0139,Male,Master's Degree,28-Sep-18,Product Manager,"$83,200 ",31.6,9,2018-09-28
+Anaya Agarwal,AC0140,Female,High School Diploma,11-May-22,Chocolatier,"$51,100 ",32.5,10,2022-05-11
+Krish Rawat,AC0141,Male,Diploma,24-Sep-21,Marketing Manager,"$73,200 ",30.6,12,2021-09-24
+Siya Sharma,AC0142,Female,Bachelor's Degree,17-Dec-20,Research Scientist,"$77,800 ",28.9,6,2020-12-17
+Kabir Trivedi,AC0143,Male,High School Diploma,08-Feb-23,Sales Representative,"$45,500 ",36.1,20,2023-02-08
+Rhea Malhotra,AC0144,Female,Diploma,24-Jul-21,Quality Control,"$41,800 ",31.1,18,2021-07-24
+Advait Kapoor,AC0145,Male,Bachelor's Degree,17-Nov-19,Packaging Associate,"$32,600 ",28.6,37,2019-11-17
+Zagnut Nut,AC0146,Male,Master's Degree,10-Oct-18,Production Operator,"$37,600 ",30.8,9,2018-10-10
+Anika Joshi,AC0147,Female,High School Diploma,03-Feb-20,Research Analyst,"$59,500 ",61.1,18,2020-02-03
+Zara Verma,AC0148,Female,Diploma,27-Jul-19,Product Manager,"$82,400 ",33.8,14,2019-07-27
+Dev Chawla,AC0149,Male,Bachelor's Degree,20-Nov-21,Chocolatier,"$51,300 ",32.7,23,2021-11-20
+Pari Gupta,AC0150,Female,Master's Degree,13-May-20,Marketing Specialist,"$61,200 ",44.1,14,2020-05-13
+Aanya Singh,AC0151,Female,High School Diploma,06-Aug-19,Research Scientist,"$78,200 ",27.6,21,2019-08-06
+Kiara Bhatia,AC0152,Female,Diploma,01-Mar-23,Sales Representative,"$48,100 ",37.2,16,2023-03-01
+Reyansh Rana,AC0153,Male,Bachelor's Degree,25-May-21,Quality Control,"$44,000 ",30.9,15,2021-05-25
+Eltin John,AC0154,Female,High School Diploma,17-Sep-20,Packaging Associate,"$36,000 ",26,15,2020-09-17
+Avani Iyer,AC0155,Female,Diploma,10-Dec-19,Production Operator,"$37,400 ",46.2,20,2019-12-10
+Kiaan Shah,AC0156,Male,Bachelor's Degree,03-Nov-18,Research Analyst,"$57,100 ",33.9,16,2018-11-03
+Michael Walkson,AC0157,Male,Master's Degree,26-Nov-17,Product Manager,"$82,300 ",34.4,18,2017-11-26
+Anaya Agarwal,AC0158,Female,High School Diploma,09-Apr-23,Chocolatier,"$52,900 ",30.5,8,2023-04-09
+Krish Rawat,AC0159,Male,Diploma,02-Jun-20,Marketing Manager,"$71,100 ",31.6,13,2020-06-02
+Siya Sharma,AC0160,Female,Bachelor's Degree,26-Aug-19,Research Scientist,"$76,900 ",33.2,17,2019-08-26
+Kabir Trivedi,AC0161,Male,High School Diploma,19-Mar-22,Sales Representative,"$46,400 ",37.1,11,2022-03-19
